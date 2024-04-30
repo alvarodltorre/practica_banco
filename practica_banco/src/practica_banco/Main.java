@@ -7,6 +7,8 @@ public class Main {
 		Cliente cliente1 = new Cliente("paco", "de la torre", 87);
 		Cliente cliente2 = new Cliente("alvaro", "redanion", 54);
 
+		
+		
 	}
 
 }
